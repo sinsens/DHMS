@@ -1,0 +1,9 @@
+E:\文档\项目\DHMS\DHMS\bin\App_Data\sdgl.mdb
+E:\文档\项目\DHMS\DHMS\bin\DHMS.dll.config
+E:\文档\项目\DHMS\DHMS\bin\DHMS.dll
+E:\文档\项目\DHMS\DHMS\bin\DHMS.pdb
+E:\文档\项目\DHMS\DHMS\bin\Base.dll
+E:\文档\项目\DHMS\DHMS\bin\Base.pdb
+E:\文档\项目\DHMS\DHMS\obj\Release\DHMS.csprojResolveAssemblyReference.cache
+E:\文档\项目\DHMS\DHMS\obj\Release\DHMS.dll
+E:\文档\项目\DHMS\DHMS\obj\Release\DHMS.pdb

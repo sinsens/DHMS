@@ -1,0 +1,6 @@
+﻿
+1：JS弹窗提示问题
+	C#后台无刷新页面弹出alert方法
+	无刷新弹出警告：
+	http://www.cnblogs.com/xinweichen/archive/2012/09/04/2670622.html
+	ScriptManager.RegisterStartupScript(this.Page, this.GetType(),"onekey", "alert('弹出')", true);

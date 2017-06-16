@@ -1,0 +1,141 @@
+卷 娱乐 的文件夹 PATH 列表
+卷序列号为 00000029 9A1F:1D1A
+E:.
+│  admin - 复制.Master.cs.exclude
+│  admin - 复制.Master.exclude
+│  admin.Master
+│  admin.Master.cs
+│  admin.Master.designer.cs
+│  Default.aspx
+│  Default.aspx.cs
+│  DHMS.csproj
+│  DHMS.csproj.user
+│  DHMS.sln
+│  Web.config
+│  Web.Debug.config
+│  Web.Release.config
+│  项目.txt
+│  项目2.txt
+│  
+├─App_Data
+│      sdgl.mdb
+│      
+├─aspnet_client
+│  └─system_web
+│      ├─2_0_50727
+│      └─4_0_30319
+├─Bin
+│  │  Base.dll
+│  │  Base.pdb
+│  │  DHMS.dll
+│  │  DHMS.dll.config
+│  │  DHMS.pdb
+│  │  
+│  └─App_Data
+│          sdgl.mdb
+│          
+├─Cache
+│  │  缓存目录.txt
+│  │  
+│  ├─files
+│  └─images
+├─Costmgr
+├─css
+│      adminStyleSheet.css
+│      
+├─DBuidingmgr
+│      Add.aspx
+│      Add.aspx.cs
+│      Add.aspx.designer.cs
+│      Default.aspx
+│      Default.aspx.cs
+│      Default.aspx.designer.cs
+│      Delete.aspx
+│      Delete.aspx.cs
+│      Delete.aspx.designer.cs
+│      Modify.aspx
+│      Modify.aspx.cs
+│      Modify.aspx.designer.cs
+│      
+├─images
+│      lct.JPG
+│      
+├─obj
+│  ├─Debug
+│  │  │  CoreCompileInputs.cache
+│  │  │  DesignTimeResolveAssemblyReferencesInput.cache
+│  │  │  
+│  │  └─TempPE
+│  └─Release
+│      │  CoreCompileInputs.cache
+│      │  DesignTimeResolveAssemblyReferencesInput.cache
+│      │  DHMS.csproj.FileListAbsolute.txt
+│      │  DHMS.csprojResolveAssemblyReference.cache
+│      │  DHMS.dll
+│      │  DHMS.pdb
+│      │  
+│      └─TempPE
+├─Properties
+│      AssemblyInfo.cs
+│      
+├─Ratemgr
+│      Add.aspx
+│      Add.aspx.cs
+│      Add.aspx.designer.cs
+│      Add2.aspx
+│      Add2.aspx.cs
+│      Add2.aspx.designer.cs
+│      Default.aspx
+│      Default.aspx.cs
+│      Default.aspx.designer.cs
+│      Modify.aspx
+│      Modify.aspx.cs
+│      Modify.aspx.designer.cs
+│      
+├─Recordmgr
+│      AddRecord.aspx
+│      AddRecord.aspx.cs
+│      AddRecord.aspx.designer.cs
+│      Default.aspx
+│      Default.aspx.cs
+│      Default.aspx.designer.cs
+│      
+├─Roomgr
+│      Add.aspx
+│      Add.aspx.cs
+│      Add.aspx.designer.cs
+│      Default.aspx
+│      Default.aspx.cs
+│      Default.aspx.designer.cs
+│      Delete.aspx
+│      Delete.aspx.cs
+│      Delete.aspx.designer.cs
+│      ImportData.aspx
+│      ImportData.aspx.cs
+│      ImportData.aspx.designer.cs
+│      Modify.aspx
+│      Modify.aspx.cs
+│      Modify.aspx.designer.cs
+│      宿舍房间管理.txt
+│      
+├─Uploads
+│      Sample.csv
+│      导入宿舍信息样表.csv
+│      
+├─Yardmgr
+│      Add.aspx
+│      Add.aspx.cs
+│      Add.aspx.designer.cs
+│      Default.aspx
+│      Default.aspx.cs
+│      Default.aspx.designer.cs
+│      Delete.aspx
+│      Delete.aspx.cs
+│      Delete.aspx.designer.cs
+│      Modify.aspx
+│      Modify.aspx.cs
+│      Modify.aspx.designer.cs
+│      
+└─说明
+        代码说明.txt
+        

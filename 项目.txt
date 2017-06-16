@@ -1,0 +1,27 @@
+DHMS
+├─App_Data			# 数据库文件存放文件夹
+├─aspnet_client
+│  └─system_web
+│      ├─2_0_50727
+│      └─4_0_30319
+├─Bin				# 代码文件夹
+│  └─App_Data
+├─Cache			# 缓存文件夹
+│  ├─files				# 文件缓存
+│  └─images				# 图像缓存
+├─Costmgr			# 费用管理模块
+├─css				# CSS样式文件夹
+├─DBuidingmgr			# 宿舍楼管理模块
+├─images			# 图像文件夹
+├─obj				# 调试生成对象
+│  ├─Debug
+│  │  └─TempPE
+│  └─Release
+│      └─TempPE
+├─Properties
+├─Ratemgr			# 费率管理模块
+├─Recordmgr			# 记录管理模块
+├─Roomgr			# 宿舍房间管理模块
+├─Uploads			# 上传文件夹
+├─Yardmgr			# 院别管理模块
+└─说明

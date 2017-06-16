@@ -1,0 +1,104 @@
+﻿/* 网页Header及导航栏 */
+.header {
+    background: antiquewhite;
+    margin: 0;
+    width: 100%;
+    border-bottom: 2px orange solid;
+    z-index: 10;
+}
+
+h1 {
+    color: Red;
+    font-weight: 900;
+}
+
+/* 网页主体 */
+.content {
+    min-height: 800px;
+    /*min-width: 960px;*/
+    padding: 0;
+    margin: 0;
+}
+    /* 左侧菜单 */
+    .content .left-menu {
+        background: antiquewhite;
+        min-height: 350px; /* 让右侧直线保持一致长度 */
+        padding: 10px 0 10px 10px;
+        float: left;
+        min-width: 200px;
+        line-height: 30px;
+        border-right: 2px orange solid;
+        border-bottom: 2px orange solid;
+    }
+
+    /* 右侧内容 */
+    .content .right {
+        padding: 40px;
+        float: left;
+        min-width: 50%;
+        max-width: 780px;
+    }
+    /* 右侧提示信息框 */
+    .content .infoBox {
+        float: left;
+        margin-top: 68px;
+        margin-right: 20px;
+        background: antiquewhite;
+        border: 2px orange solid;
+        min-height: 260px;
+        min-width: 200px;
+        max-width:250px;
+        font-size:13px;
+        text-indent:2em;
+        padding:1em;
+        line-height:20px;
+    }
+
+        .content .infoBox .minititle {
+            padding:1px;
+            text-indent: 0;
+            font-weight: 600;
+            width: 100%;
+            text-align: center;
+            border-bottom: 2px solid orange;
+        }
+
+table tr td, table tbody tr td, table tbody tr th {
+    padding: 2px;
+}
+
+/* 网站Logo及版权信息 */
+.footer {
+    text-align: center;
+    margin: 0;
+    bottom: 0;
+    background: #f0f0f0;
+    width: 100%;
+    padding: 30px;
+    clear: both;
+}
+
+/* 验证码 */
+.yzm {
+    border: none;
+    min-height: 25px;
+    padding: 2px;
+    min-width: 80px;
+    background: #388765;
+    color: antiquewhite;
+}
+
+/* 重写标签 */
+input {
+    min-height: 20px;
+}
+
+textarea {
+    min-height: 80px;
+    min-width: 175px;
+}
+
+/* 提示文本样式 */
+.tip {
+    font-size: 10px;
+}
